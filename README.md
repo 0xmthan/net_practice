@@ -44,7 +44,6 @@ Networking concepts studied in this project:
 **OSI layers** — of the seven layers, this project lives on layers 1 to 3: layer 1 (physical) is the cabling drawn in the diagrams, layer 2 (data link) is the switches and the frames they forward, and layer 3 (network) is everything the exercises are actually graded on — IP addressing, subnet masks, gateways and routing. The four above it — layer 4 (transport), layer 5 (session), layer 6 (presentation) and layer 7 (application) — are not touched by the exercises.
 
 
-- [NetworkChuck - let's subnet your home network // You SUCK at subnetting // EP 6](https://www.youtube.com/watch?v=mJ_5qeqGOaI&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
-- [NetworkChuck — subnetting playlist](https://www.youtube.com/watch?v=mJ_5qeqGOaI&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
+- [NetworkChuck - let's subnet your home network // You SUCK at subnetting // EP 6 (playlist)](https://www.youtube.com/watch?v=mJ_5qeqGOaI&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
 
 **AI usage:** AI was used only to draft and format this README. All levels were solved manually.
